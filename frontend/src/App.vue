@@ -20,7 +20,7 @@
                 >
                     <v-list>
                         <v-list-item
-                            prepend-avatar="https://ui-avatars.com/api/?length=2&name=Agus%20Suandi"
+                            prepend-avatar="https://ui-avatars.com/api/?length=2&name=Gunduk%20Kristiywan"
                             :title="developer.name"
                             :subtitle="developer.email"
                         ></v-list-item>
